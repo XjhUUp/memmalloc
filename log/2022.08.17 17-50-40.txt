@@ -1,0 +1,4 @@
+THREAD ID:9652   /home/xiajiaheng/memmalloc/test/log_test.c:60   malloc   start:0x600002015048   size:1024
+THREAD ID:9652   /home/xiajiaheng/memmalloc/test/log_test.c:62   free     start:0x600002015048
+THREAD ID:9652   /home/xiajiaheng/memmalloc/test/log_test.c:62   malloc   start:0x600002015048   size:1024
+THREAD ID:9652   /home/xiajiaheng/memmalloc/test/log_test.c:63   free     start:0x600002015048

@@ -1,0 +1,146 @@
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002015048   size:14383
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600002015048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002019048   size:12777
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000201d048   size:7793
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000201f048   size:5386
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000201f048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002021048   size:11649
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002024048   size:12362
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002028048   size:8690
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000202b048   size:7763
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000202b048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000202d048   size:540
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000202d048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000402d048   size:9172
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000402d048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004030048   size:10211
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600004030048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004033048   size:12567
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000202e048   size:782
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000202e048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004037048   size:7862
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004039048   size:9067
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000202f048   size:3929
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000202f048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000403c048   size:14022
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000403c048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004040048   size:8069
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002030048   size:1393
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600002030048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004042048   size:5011
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600004042048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004044048   size:11229
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004047048   size:14421
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000404b048   size:13784
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000404f048   size:5198
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000404f048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004051048   size:8315
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600004051048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004054048   size:6413
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600004054048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004056048   size:6091
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600004056048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004058048   size:9956
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002031048   size:1862
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600002031048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002032048   size:1996
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000405b048   size:7305
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002033048   size:2084
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000405d048   size:5336
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000405f048   size:10846
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004062048   size:6313
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004064048   size:11124
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004067048   size:9582
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000406a048   size:13814
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002034048   size:434
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600002034048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000406e048   size:14043
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000406e048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002035048   size:1087
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600002035048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004072048   size:12276
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600004072048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002036048   size:788
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600002036048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004076048   size:5403
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004078048   size:7754
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000407a048   size:4932
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000407a048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000407c048   size:4676
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000407c048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000407e048   size:12739
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000407e048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004082048   size:6226
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600004082048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004084048   size:8094
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002036048   size:795
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600002036048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004086048   size:6434
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600004086048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004088048   size:12467
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000408c048   size:10097
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000408c048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000408f048   size:13317
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000408f048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004093048   size:6652
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600004093048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004095048   size:12301
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600004095048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600004099048   size:4286
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000409b048   size:8865
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000409e048   size:13444
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040a2048   size:8440
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040a5048   size:8031
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040a7048   size:8097
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040a9048   size:14481
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040ad048   size:5709
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040af048   size:9567
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x6000040af048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040b2048   size:9497
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040b5048   size:14586
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040b9048   size:10306
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040bc048   size:11219
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x6000040bc048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002037048   size:1528
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040bf048   size:5732
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040c1048   size:4503
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002038048   size:3270
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600002038048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040c3048   size:4708
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040c5048   size:6340
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002039048   size:2796
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000203a048   size:2618
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000203b048   size:2846
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040c7048   size:7921
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040c9048   size:7379
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x6000040c9048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040cb048   size:12764
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x6000040cb048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040cf048   size:9841
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x6000040cf048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000203c798   size:193
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000203c798
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040d2048   size:7034
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x6000040d2048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040d4048   size:5124
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x6000040d4048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040d6048   size:11987
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x6000040d6048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040d9048   size:13743
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040dd048   size:12227
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040e1048   size:14859
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x6000040e1048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000203d048   size:1432
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040e5048   size:6437
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x6000040e5048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002038048   size:3275
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040e7048   size:6474
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040e9048   size:8858
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040ec048   size:6029
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040ee048   size:8235
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000203e048   size:818
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x60000203e048
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x60000203f048   size:1143
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x6000040f1048   size:5928
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:14   malloc   start:0x600002040048   size:3776
+THREAD ID:9383   /home/xiajiaheng/project788067-126918/test/log_test.c:12 (discriminator 2)   free     start:0x0x600002040048

@@ -1,0 +1,1 @@
+THREAD ID:4535   /home/xiajiaheng/memmalloc/test/log_test.c:61   malloc   start:0x600002015848   size:128
